@@ -16,8 +16,8 @@ header{
     background-size: cover;
     background-repeat: no-repeat;
 }
-header h3{
-    font-size: 700pt;
+header h1{
+    font-size: 50pt;
 }
 #portrait img{
     margin-top: 45px;
