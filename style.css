@@ -1,0 +1,91 @@
+*{
+    font-size: 1.3vw;
+}
+body{
+    background-color:cornsilk;
+}
+header{
+    color: cornsilk;
+    font-family: 'Bebas Neue', cursive;
+    text-shadow: 4px 2px 4px #000;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+    background-image: url(leaves.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+header h3{
+    font-size: 700pt;
+}
+#portrait img{
+    margin-top: 45px;
+    border-radius: 50%;
+    border: 10px solid white;
+    box-shadow: 3px 3px 10px #000;;
+    width: 300px;
+    height: 300px;
+    margin-bottom: 30px;
+}
+
+h3{
+    font-family: 'Bebas Neue', cursive;
+    text-shadow: black;
+    text-shadow: px 1px 2px;
+font-size: 2vw;
+}
+.navbar{
+    height: 35px;
+    font-family: 'Bebas Neue', cursive;
+    background-color: rgb(245, 245, 245);
+    text: black;
+}
+button{
+    font-family: 'Bebas Neue', cursive;
+    width: 100px;
+    height: 40px;
+    margin-left: 90px;
+}
+#info h3{
+    margin-left: 80px;
+    text-shadow: white;
+    text-shadow: 1px 1px 2px;
+   
+}
+#bio{
+    padding-top: 100px;
+     text-shadow: white;
+    text-shadow: 1px 1px 2px;
+}
+#containcard{
+    margin-top: 100px ;
+    margin-left: 135px;
+}
+li{
+    margin-left: 80px;
+}
+.card{
+  
+}
+.card-title{
+
+    margin:10px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 2vw;
+}
+
+.btn{
+    font-size: 1vw;
+}
+/* iframe{
+    margin-right: 500px;
+} */
+#youtube{
+    margin-right: 100px;
+}
+footer{
+    background-color: white;
+    text-align: center;
+    margin-top: 200px;
+}
